@@ -1,0 +1,171 @@
+body {
+    background-color: #0a0002;
+    background-color: #ec0225;
+    background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+
+
+}
+
+
+/***showcase**/
+
+.img-1 {
+    position: absolute;
+    width: 99vw;
+    height: 100vh;
+}
+
+
+.navbar-brand {
+    padding-left: 32px;
+}
+
+.navbar-nav {
+    padding-right: 32px;
+}
+
+.About {
+    padding-top: 20px;
+}
+
+.AboutData {
+    margin-top: 200px;
+    /* width: 900px; */
+    height: 700px;
+
+}
+
+.media-body {
+    padding-left: 100px;
+}
+
+#About .card {
+    width: 1000px;
+
+}
+
+.container {
+    padding-right: 50px;
+
+
+}
+
+
+
+.media {
+    display: flex;
+    align-items: center;
+
+    padding: 20px;
+
+}
+
+
+/****About Me****/
+
+#AboutMe a {
+
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+.aboutme {
+    /* width: 900px; */
+    margin: 0 auto;
+    margin-top: 1px;
+}
+
+.lead {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+/***skills***/
+
+#Skills a {
+
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+.skills {
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+
+
+#Skills h3 {
+    margin-left: 20px;
+}
+
+.progress {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+
+/*****Education*******/
+
+#Education a {
+
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+
+.education {
+    /* width: 900px; */
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+
+
+
+/****Certification****/
+
+#Certification a {
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.certification {
+    /* width: 900px; */
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.card-1 {
+    margin-left: 200px;
+}
+
+.card-2 {
+    margin-right: 200px;
+}
+
+#Certification .card {
+    border-top: 5px solid #27ae60;
+}
+
+
+/***Projects**/
+#Projects a {
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.projects {
+    /* width: 900px; */
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+#Projects.intro {
+    font-family: serif;
+}
